@@ -1,0 +1,9 @@
+dependencies:
+  - python=3
+  - numpy
+  - pip
+  - basemap
+  - pip:
+    - matplotlib
+    - geos
+    - proj
